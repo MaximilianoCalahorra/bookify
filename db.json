@@ -1,0 +1,112 @@
+{
+  "libros": [
+    {
+      "id": 1,
+      "slug": "fantasia",
+      "genre": "Fantasía",
+      "title": "Harry Potter y la piedra filosofal",
+      "author": "J.K. Rowling",
+      "price": 18500,
+      "image": "assets/img/libros/harry-potter.jpg"
+    },
+    {
+      "id": 2,
+      "slug": "fantasia",
+      "genre": "Fantasía",
+      "title": "El Hobbit",
+      "author": "J.R.R. Tolkien",
+      "price": 22000,
+      "image": "assets/img/libros/el-hobbit.jpg"
+    },
+    {
+      "id": 3,
+      "slug": "scifi",
+      "genre": "Ciencia Ficción",
+      "title": "Duna",
+      "author": "Frank Herbert",
+      "price": 25500,
+      "image": "assets/img/libros/duna.jpg"
+    },
+    {
+      "id": 4,
+      "slug": "clasico",
+      "genre": "Ficción / Distopía",
+      "title": "1984",
+      "author": "George Orwell",
+      "price": 16200,
+      "image": "assets/img/libros/1984.jpg"
+    },
+    {
+      "id": 5,
+      "slug": "clasico",
+      "genre": "Realismo Mágico",
+      "title": "Cien años de soledad",
+      "author": "Gabriel García Márquez",
+      "price": 21000,
+      "image": "assets/img/libros/cien-anios-soledad.jpg"
+    },
+    {
+      "id": 6,
+      "slug": "clasico",
+      "genre": "Literatura",
+      "title": "El Principito",
+      "author": "Antoine de Saint-Exupéry",
+      "price": 11500,
+      "image": "assets/img/libros/el-principito.jpg"
+    },
+    {
+      "id": 7,
+      "slug": "misterio",
+      "genre": "Misterio / Suspenso",
+      "title": "El código Da Vinci",
+      "author": "Dan Brown",
+      "price": 19800,
+      "image": "assets/img/libros/codigo-da-vinci.jpg"
+    },
+    {
+      "id": 8,
+      "slug": "terror",
+      "genre": "Terror",
+      "title": "It (Eso)",
+      "author": "Stephen King",
+      "price": 28000,
+      "image": "assets/img/libros/it.jpg"
+    },
+    {
+      "id": 9,
+      "slug": "misterio",
+      "genre": "Policial / Misterio",
+      "title": "Y no quedó ninguno",
+      "author": "Agatha Christie",
+      "price": 14500,
+      "image": "assets/img/libros/y-no-quedo-ninguno.jpg"
+    },
+    {
+      "id": 10,
+      "slug": "autoayuda",
+      "genre": "Desarrollo Personal",
+      "title": "Hábitos Atómicos",
+      "author": "James Clear",
+      "price": 17900,
+      "image": "assets/img/libros/habitos-atomicos.jpg"
+    },
+    {
+      "id": 11,
+      "slug": "historia",
+      "genre": "Historia / Ciencia",
+      "title": "Sapiens: De animales a dioses",
+      "author": "Yuval Noah Harari",
+      "price": 24000,
+      "image": "assets/img/libros/sapiens.jpg"
+    },
+    {
+      "id": 12,
+      "slug": "autoayuda",
+      "genre": "Espiritualidad",
+      "title": "El monje que vendió su Ferrari",
+      "author": "Robin Sharma",
+      "price": 15200,
+      "image": "assets/img/libros/el-monje-ferrari.jpg"
+    }
+  ]
+}
